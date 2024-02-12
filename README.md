@@ -1,3 +1,5 @@
+**Work has been halted, this package is far from being complete.**
+
 These are the notes I took during research & development.
 # Better Stake Sui
 
